@@ -37,6 +37,13 @@ The audit identified **11,356 private room listings**, indicating a high-density
 ### 3. Review Recency
 The temporal audit spans from **2011 to 2019**, providing a decade-long window into consumer behavior and listing longevity in NYC.
 
+### 📊 Strategic Market Insight: Pricing Distribution Audit
+<p align="center">
+  <img src="images/market_distribution.png" alt="NYC Airbnb Pricing Distribution" width="100%">
+</p>
+
+*High-resolution frequency distribution of NYC Airbnb listings. The dashed line indicates the market mean ($141.78), identifying the critical threshold for value-based investment strategies.*
+
 ## 🏛️ Recommendations
 * **Automated Ingestion:** This logic should be moved to a Python script to automate weekly market updates.
 * **Dynamic Pricing Model:** Future iterations should include a regression model to predict prices based on the `nbhood_full` feature engineered during this audit.
