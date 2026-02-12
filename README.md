@@ -1,4 +1,4 @@
-# Nyc-Market-Intelligence-Airbnb-Sector-Integration-Pricing-Audit
+# Nyc-Market-Intelligence: Airbnb-Sector-Integration-Pricing-Audit
 ![Status: Production-Grade](https://img.shields.io/badge/Status-Production--Grade-brightgreen?style=for-the-badge)
 ![Category: Data Integration / ETL](https://img.shields.io/badge/Category-Data_Integration_/_ETL-blue?style=for-the-badge)
 ![Tech: Multi--Format_Processing](https://img.shields.io/badge/Tech-Multi--Format_Processing-orange?style=for-the-badge)
